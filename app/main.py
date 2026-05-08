@@ -6,8 +6,8 @@ import numpy as np
 import os
 import joblib
 
-OWNER_NAME = "Your Name"
-OWNER_GITHUB_URL = "https://github.com/your-username"
+OWNER_NAME = "Ishant Singh"
+OWNER_GITHUB_URL = "https://github.com/Ishant127376"
 
 
 

@@ -5,7 +5,8 @@ import plotly.graph_objects as go
 import numpy as np
 import os
 import joblib
-
+OWNER_NAME = "Ishant Singh"
+OWNER_GITHUB_URL = "https://github.com/Ishant127376"
 
 def get_clean_data():
     data_path = os.path.join(os.path.dirname(__file__), "../data/data.csv")
